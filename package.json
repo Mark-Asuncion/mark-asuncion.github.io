@@ -1,0 +1,10 @@
+{
+
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./index-src.css -o ./index.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.7",
+    "tailwindcss": "^4.1.7"
+  }
+}
