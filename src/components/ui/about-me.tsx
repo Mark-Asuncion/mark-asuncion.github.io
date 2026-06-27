@@ -15,7 +15,7 @@ export default function AboutMe() {
                 </div>
                 <div className="flex mt-2 mx-auto gap-8">
                     <ButtonLink href="https://github.com/Mark-Asuncion" target="_blank" className="size-7"><Github className="text-white" /></ButtonLink>
-                    <ButtonLink href="https://www.linkedin.com/in/mark-anthony-asuncion-6806142ba" className="size-7"><Linkedin className="text-white" /></ButtonLink>
+                    <ButtonLink href="https://www.linkedin.com/in/mark-anthony-asuncion-6806142ba" target="_blank" className="size-7"><Linkedin className="text-white" /></ButtonLink>
                 </div>
             </div>
             <div className="md:flex md:flex-col">
