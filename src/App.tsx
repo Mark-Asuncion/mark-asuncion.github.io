@@ -1,10 +1,10 @@
-import Content from "./components/template/content"
-import Header from "./components/template/header"
+import AboutMe from "./components/ui/about-me"
+import Header from "./components/ui/header"
 
 function App() {
     return <>
         <Header />
-        <Content />
+        <AboutMe />
     </>
 }
 
